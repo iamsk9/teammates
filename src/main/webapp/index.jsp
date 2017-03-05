@@ -36,7 +36,7 @@
             <img class="center-block img-responsive" alt="TEAMMATES - Praised by Users" src="images/overview_praise.png">
         </div>
         <div class="col-xs-12 col-sm-8">
-            <h2 class="media-heading">Praised by Users:</h2>
+            <h2 class="media-heading">Considered Best by Users:</h2>
             <p id="testimonialContainer">
                 Thank you for building such a wonderful tool.
                 <br>-Faculty user, Canada
